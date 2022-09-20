@@ -5,4 +5,4 @@ This is american.
 this 2nd time asian.
 this 2nd time american.
 
-Hi tyring to merge into master from branch
+Hi tyring to merge into master from branch.
